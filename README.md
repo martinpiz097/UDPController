@@ -1,2 +1,2 @@
 # UDPController
-A simple application to create a UDP client.
+A simple android application to create a UDP client.
